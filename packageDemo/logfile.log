@@ -1,0 +1,18 @@
+2019-10-27 17:01:54,259 :INFO : packageDemo.BaseClass :Vi
+2019-10-27 17:01:54,264 :INFO : packageDemo.BaseClass :viacademy.com
+2019-10-27 17:09:20,863 :INFO : test_editProfile :Vi
+2019-10-27 17:09:20,863 :INFO : test_editProfile :viacademy.com
+2019-10-27 17:11:11,713 :INFO : test_editProfile :Vi
+2019-10-27 17:11:11,713 :INFO : test_editProfile :viacademy.com
+2019-10-27 17:11:11,737 :CRITICAL : packageDemo.test_logging :Critical issue
+2021-06-23 00:57:07,502 :CRITICAL : packageDemo.test_logging :Critical issue
+2021-06-23 01:03:26,082 :CRITICAL : packageDemo.test_logging :Critical issue
+2021-06-23 01:05:15,098 :CRITICAL : packageDemo.test_logging :Critical issue
+2021-06-23 01:49:20,082 :CRITICAL : packageDemo.test_logging :Critical issue
+2021-06-23 01:52:37,512 :CRITICAL : packageDemo.test_logging :Critical issue
+2021-06-23 01:55:00,604 :CRITICAL : packageDemo.test_logging :Critical issue
+2021-06-23 11:15:13,406 :CRITICAL : packageDemo.test_logging :Critical issue
+2021-06-23 11:16:10,863 :CRITICAL : packageDemo.test_logging :Critical issue
+2021-06-23 11:21:44,826 :CRITICAL : packageDemo.test_logging :Critical issue
+2021-06-23 11:24:21,019 :CRITICAL : packageDemo.test_logging :Critical issue
+2021-06-23 11:27:21,143 :CRITICAL : packageDemo.test_logging :Critical issue
